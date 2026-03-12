@@ -1,3 +1,6 @@
 # demo-repo
 This is my first project on github
-this is a demo project for practice
+this is a demo project for practice.
+adding a new line
+
+
